@@ -1,5 +1,5 @@
 # Exercise 1: Navigation
-
+hhhhhhhhhhhhhhh
 This exercise is an introduction to terminal command.
 An example solution is in the _solution_ folder.
 
